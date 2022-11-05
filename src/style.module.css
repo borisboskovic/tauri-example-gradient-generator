@@ -1,0 +1,9 @@
+.gradient_container {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gradient_slice {
+    flex-grow: 1;
+}
